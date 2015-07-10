@@ -1,0 +1,28 @@
+{
+  "name": "object-transmute",
+  "version": "0.1.0",
+  "description": "Simple object processing.",
+  "license": "MIT",
+  "author": {
+    "name": "Andy Burke",
+    "email": "aburke@bitflood.org",
+    "url": "https://github.com/andyburke"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellofloat/object-transmute.git"
+  },
+  "scripts": {
+    "test": "mocha --recursive -R spec"
+  },
+  "dependencies": {
+    "delver": "0.0.11",
+    "es6-shim": "^0.32.2",
+    "extend": "^3.0.0",
+    "traverse": "^0.6.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  }
+}
