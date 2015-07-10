@@ -1,6 +1,6 @@
 ![object-transmute](/transmute.png?raw=true)
 
-object-
+object-transmute
 =========
 
 object-transmute allows you to run objects through a series of transmutations.
