@@ -72,9 +72,9 @@ console.log( JSON.stringify( transmuted, null, 4 ) );
 
 Will result in an object that has been run through the following transmutations in order:
 
-1) filter - only allow through the specified fields
-2) remove - remove only the specified fields
-3) process - process the specified fields using the given processors
+ # filter - only allow through the specified fields
+ # remove - remove only the specified fields
+ # process - process the specified fields using the given processors
 
 ```JSON
 {
