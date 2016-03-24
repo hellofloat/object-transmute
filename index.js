@@ -1,6 +1,5 @@
 'use strict';
 
-require( 'es6-shim' );
 var Delver = require( 'delver' );
 var extend = require( 'extend' );
 var traverse = require( 'traverse' );
