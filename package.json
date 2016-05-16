@@ -1,6 +1,6 @@
 {
   "name": "object-transmute",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple object processing.",
   "license": "MIT",
   "author": {
@@ -16,7 +16,7 @@
     "test": "mocha --recursive -R spec"
   },
   "dependencies": {
-    "delver": "0.0.11",
+    "delver": "^1.1.0",
     "extend": "^3.0.0",
     "traverse": "^0.6.6"
   },
